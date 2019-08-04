@@ -1,0 +1,34 @@
+.input-div {
+    background-color: #e0e0e0;
+    
+    margin:0;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.input-div ul {
+    display: inline;
+}
+
+.input-div ul li {
+    display: inline;
+} 
+
+.topnav a {
+    font-size: 14px;
+    color: grey;
+}
+
+.jumbotron{
+ margin:0;
+ padding:0;
+}
+
+
+#footer-ul li {
+    display: inline;
+    margin-left: 20px;
+}
+/*
+ CHECK OUT NORMALIZE.CSS!!!!!!
+*/
